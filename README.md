@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iam-clintonn
+- 👋 Hi, I’m Clinton David
 - 👀 I’m interested in learning more on this community
 - 🌱 I’m currently learning react, javascript also into designing; graphic design and Ui Ux
 - 💞️ I’m looking to collaborate on any beginner projects with new people
